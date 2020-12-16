@@ -1,0 +1,11 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "window.zoomLevel": 1,
+    "atomKeymap.promptV3Features": true,
+    "workbench.settings.openDefaultKeybindings": true,
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.activityBar.visible": false,
+    "files.insertFinalNewline": true,
+    "go.formatTool": "goimports"
+}
