@@ -1,5 +1,6 @@
 ## vscode
 
 ```bash
-$ bash vscode/sync.sh
+$ cd vscode
+$ bash sync.sh
 ```
